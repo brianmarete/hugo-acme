@@ -1,8 +1,12 @@
-+++
-title = 'Privacy'
-date = 2023-11-14T11:33:23+03:00
-draft = false
-+++
+---
+title: "Privacy"
+date: 2023-11-14T11:33:23+03:00
+draft: false
+menu:
+  footer:
+    name: Privacy Policy
+    weight: 300
+---
 
 # Privacy Policy
 
