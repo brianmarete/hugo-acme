@@ -4,6 +4,7 @@ menu:
     name: News
     identifier: news
     weight: 120
+    post: We are trending
 ---
 
 ![News](News.png)

@@ -1,6 +1,17 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: Acme Corporation
+subtitle: shaping the world for you to live in
 theme: Eclectic
 enableEmoji: true
 enableGitInfo: true
+contacts:
+  - facebook:
+      url: "https://facebook.com/example"
+      name: "facebook"
+  - twitter:
+      url: "https://twitter.com/example"
+      name: "twitter"
+  - email:
+      url: "mailto:contact@example.org"
+      name: "email"

@@ -1,8 +1,13 @@
-+++
-title = 'Credits'
-date = 2023-11-14T11:34:41+03:00
-draft = false
-+++
+---
+title: Credits
+date: 2023-11-14T11:34:41+03:00
+draft: false
+menu:
+  footer:
+    name: Credits
+    identifier: credits
+    weight: 400
+---
 
 # Credits
 
